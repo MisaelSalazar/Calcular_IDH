@@ -1,0 +1,6 @@
+Datos necesarios para calcular el IDH:
+
+esperanza de vida (real y maxima)       75,23 años  85 años
+tasa de alfabetización de adultos       4.7 %
+tasa bruta combinada de matriculación   80.2
+PIB per cápita                          8,347 US$
